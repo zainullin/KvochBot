@@ -1,0 +1,11 @@
+{
+  "name": "KvochBot",
+  "version": "1.0.0",
+  "description": "Бот для обслуживания коммуникации работодателя и студента",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Zainullin Radik",
+  "license": "ISC"
+}
