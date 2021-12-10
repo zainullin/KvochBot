@@ -4,8 +4,14 @@
   "description": "Бот для обслуживания коммуникации работодателя и студента",
   "main": "index.js",
   "scripts": {
+    "start": "node ./src/index.js",
+    "dev": "nodemon ./src/index.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "author": "Zainullin Radik",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "node-telegram-bot-api": "^0.56.0",
+    "nodemon": "^2.0.15"
+  }
 }
